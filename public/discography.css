@@ -4,5 +4,6 @@
 }
 
 #name{
-    word-wrap: break-word;
+    word-break: break-all;
+    overflow-wrap: anywhere;
 }
