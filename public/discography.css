@@ -1,3 +1,7 @@
 #albumcover{
     float: left;
 }
+
+#name{
+    word-wrap: break-word;
+}
